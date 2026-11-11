@@ -1,0 +1,11 @@
+
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/Sarvadnyahapase5-cloud/Personal-AI-Updates/releases/download/v1.0.0/app-debug.apk",
+  "sha256": "A6C8C51622C010D90E0F4243B0164D344C64FE09BBDE0DAB59B85A2DF3DC0552",
+  "sizeBytes": 1047749716,
+  "changelog": [
+    "Initial ATLAS release."
+  ]
+}
